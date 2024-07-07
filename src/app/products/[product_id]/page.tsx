@@ -1,8 +1,10 @@
 import React from 'react'
 
-const ProductDetail = () => {
+const ProductDetail = ({ params }: {
+  params: { product_id: string }
+}) => {
   return (
-    <div>ProductDetail</div>
+    <div>ProductDetail {params.product_id}</div>
   )
 }
 
