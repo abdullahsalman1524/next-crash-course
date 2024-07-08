@@ -11,9 +11,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <p>this is the navbar</p>
-      <body>{children}</body>
-      <footer>this is the footer</footer>
+      <body>
+        <h1>this is the navbar</h1>
+        {children}
+        <footer>this is the footer</footer>
+      </body>
     </html>
   );
 }

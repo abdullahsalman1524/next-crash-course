@@ -51,3 +51,8 @@ header and footer.
 <!-- hum kisi b folder b layout.tsx create kar sakty hain. -->
 <!-- is se wo our b partials hum render kar lain gay -->
 agr hum ne kisi specific page pe layout lagana ho to ye kam ata.
+
+
+page metadata takes precedence over layout, usefull in seo,
+
+<!-- to show active links there is a usePathName hook lec20 -->

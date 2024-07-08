@@ -1,9 +1,14 @@
-import React from 'react'
+import React from "react";
+import Link from "next/link";
 
 const Login = () => {
   return (
-    <div>Login</div>
-  )
-}
+    <div>
+      <p>Login</p>
 
-export default Login
+      <Link href="/auth/register">Register</Link>
+    </div>
+  );
+};
+
+export default Login;
