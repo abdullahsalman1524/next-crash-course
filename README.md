@@ -48,4 +48,6 @@ if we change the folder name to (name) then folder name will not be in url
 a layout is a ui that is shared between multiple pages in a app
 header and footer.
 
-
+<!-- hum kisi b folder b layout.tsx create kar sakty hain. -->
+<!-- is se wo our b partials hum render kar lain gay -->
+agr hum ne kisi specific page pe layout lagana ho to ye kam ata.
