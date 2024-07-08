@@ -41,4 +41,11 @@ similar routes ko hum group kar lety hain
 jesy ke authentication ke login register forgot-password
 
 
-if we change the folder name to {name} then folder name will not be in url
+if we change the folder name to (name) then folder name will not be in url
+
+
+<!-- lec 14 layouts -->
+a layout is a ui that is shared between multiple pages in a app
+header and footer.
+
+
