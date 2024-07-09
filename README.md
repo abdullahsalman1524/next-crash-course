@@ -56,3 +56,5 @@ agr hum ne kisi specific page pe layout lagana ho to ye kam ata.
 page metadata takes precedence over layout, usefull in seo,
 
 <!-- to show active links there is a usePathName hook lec20 -->
+
+<!--23.  loading.tsx create kar dain gay, wo khudi react suspence ka kam kar de gi -->
