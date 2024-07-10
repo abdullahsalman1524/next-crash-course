@@ -58,3 +58,7 @@ page metadata takes precedence over layout, usefull in seo,
 <!-- to show active links there is a usePathName hook lec20 -->
 
 <!--23.  loading.tsx create kar dain gay, wo khudi react suspence ka kam kar de gi -->
+
+
+<!-- you can create a custom request handlers for our routes using a feature called route handler -->
+<!-- route handlers are great for making external api requests. -->
